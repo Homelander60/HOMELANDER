@@ -6,7 +6,7 @@
   
 <p align="center">  
   <a href="𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍">
-    <img alt=𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍 height="500" src="https://telegra.ph/file/5d208562c78e40cbfc1bc.jpg">
+    <img alt=𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍 height="1000" src="https://telegra.ph/file/5d208562c78e40cbfc1bc.jpg">
    
 </a> 
     
