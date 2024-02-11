@@ -1,8 +1,8 @@
 {
-  "name": "𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍",
+  "name": "HOMELANDER",
   "version": "1.0.0",
-  "description": "𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍 not a Simple WhatsApp Bot",
-  "logo": "src":"https://telegra.ph/file/16e265f1bd51573b05c7e.jpg",
+  "description": "Homelander Simple WhatsApp Bot",
+  "logo": "https://telegra.ph/file/8df7ee648897fa2438f92.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/Homelander60/HOMELANDER",
   "stack": "container",
@@ -49,12 +49,10 @@
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
       "required": true
-      "value": "Homelander5566"
     },
     "HEROKU_API_KEY": {
       "description": "Enter Your Heroku Account Api Key. Get It From https://dashboard.heroku.com/account",
       "required": true
-      "value": "c9c9fd22-7d7f-4ff4-89ee-8ba599aee8ae"
     },
     "AUTO_REACT": {
   "description": "If You Want To React Automatically To Messages Type true. Otherwise, Type false",
