@@ -25,10 +25,11 @@ To use 𝙃𝙊𝙈𝙀𝙇𝘼𝙉𝘿𝙀𝙍 as a WhatsApp bot:
 
 if you can deploy
 #### SETUP
+<a href="https://heroku.com/deploy?template=https://github.com/Homelander60/HOMELANDER/"><img title="HOMELANDER Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 Fork The Repo
     <br>
-<a href="/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK HOMELANDER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="/fork"><img title="HOMELANDER" src="https://img.shields.io/badge/FORK HOMELANDER-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Scan QR Code
 
